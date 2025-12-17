@@ -1,7 +1,7 @@
 export default function RoomDetail() {
   return (
     <div className="container">
-      <img src="/rooms/room1.jpg" alt="Srimathi Cottage" style={{width:'100%',height:'300px',objectFit:'cover'}} />
+      <img src="/rooms/room1.jpg" alt=" Srimathi Ragul Cottage" style={{width:'100%',height:'300px',objectFit:'cover'}} />
       <h1>Heritage Cottage</h1>
       <p>A cozy cottage with vintage charm and modern comfort.</p>
       <p>Capacity: 3 guests</p>
