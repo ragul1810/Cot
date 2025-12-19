@@ -3,7 +3,7 @@ export default function Home() {
     <div>
       <section style={{backgroundImage:"url('/hero.jpg')",height:"60vh",display:"flex",alignItems:"center",justifyContent:"center"}}>
         <div style={{background:"rgba(0,0,0,0.5)",padding:"1rem",borderRadius:"8px",color:"white",textAlign:"center"}}>
-          <h1>Srimathis's Garden</h1>
+          <h1>Srimathi Ragul Garden</h1>
           <p>Serene stays, authentic experiences.</p>
           <a className="btn" href="/rooms/sample-room">View a room</a>
         </div>
